@@ -23,3 +23,19 @@ this means stripping down the agents, removing the main agent panel, adding a re
 - Improved file explorer
 - added terminal features like curstom shell-env variables that use a shell.nix file in the project config
 - And more!
+
+# TODO
+- Add more tests
+- Improve documentation
+- Refactor code for better readability
+- Add more features from VSCode
+- Optimize performance further
+- Fix any remaining bugs
+- Engage with the community for feedback and suggestions
+- Regularly update the fork with changes from the main Zed repository
+- Explore integration with other tools and services
+- Enhance user experience with better UI/UX design
+- Create tutorials and guides for new users
+- Implement user feedback and suggestions
+- add integration with the makes codebase for local builds of projects
+- And more!
