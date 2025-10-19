@@ -10,3 +10,4 @@ my current target is [Zed]. The goal of this fork is to strip out a lot of thing
 
 this means stripping down the agents, removing the main agent panel, adding a refactored 1password plugin that I pulled from VSCode, and updating the terminal to work more like the terminal in VSCode.
 
+switch to the dev branch for latest changes, they are not here and will not be here until I have something working on the dev/staging branches
